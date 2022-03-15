@@ -1,6 +1,6 @@
 ## Projetos Trybe
 
-> Repositório com os projetos realizados durante o curso de desenvolvimento web na Trybe.
+> Repositório com os projetos realizados no módulo de fundamentos do curso de desenvolvimento web na [Trybe](https://www.betrybe.com/).
 
 #### Módulo 1 - Fundamentos do Desenvolvimento Web
 
