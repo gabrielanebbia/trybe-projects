@@ -4,7 +4,7 @@
 
 #### Módulo 1 - Fundamentos do Desenvolvimento Web
 
-- Projeto Lessons Learned
+- [Lessons Learned](1.lessons-learned/)
 - Projeto Playground Functions
 - Projeto Pixels Art
 - Projeto Todo List
