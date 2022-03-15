@@ -4,8 +4,8 @@
 
 #### Módulo 1 - Fundamentos do Desenvolvimento Web
 
-- Projeto Lessons Learned
-- Projeto Playground Functions
+- [Lessons Learned](1.lessons-learned/)
+- [Playground Functions](2.playground-functions/)
 - Projeto Pixels Art
 - Projeto Todo List
 - Projeto (Bônus) Meme Generator
