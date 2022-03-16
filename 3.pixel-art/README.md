@@ -6,7 +6,7 @@
 
 #### Objetivos do projeto
 
-Nesse projeto foi implementada uma página web que contém uma paleta de cores que pode ser utilizada para criar desenhos em pixels. 
+Nesse projeto foi desenvolvida uma página web que contém uma paleta de cores que pode ser utilizada para criar desenhos em pixels.
 
 ---
 
@@ -15,3 +15,7 @@ Nesse projeto foi implementada uma página web que contém uma paleta de cores q
 `HTML`
 `CSS`
 `JavaScript`
+
+---
+
+#### Implementações
