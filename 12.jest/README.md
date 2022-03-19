@@ -1,23 +1,23 @@
 # Projeto Jest
 
-[Objetivos do projeto](#objetivos-do-projeto) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Implementações](#implementações) | [Como rodar o projeto](#como=rodar-o-projeto)
+[Objetivos do projeto](#objetivos-do-projeto) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Implementações](#implementações) | [Como rodar o projeto](#como-rodar-o-projeto)
 
 ---
 
-#### Objetivos do projeto
+### Objetivos do projeto
 
 Nesse projeto foram desenvolvidos testes utilizando Jest, para funções assíncronas, com mock de funções e APIs.
 
 ---
 
-#### Tecnologias utilizadas
+### Tecnologias utilizadas
 
 - `JavaScript`
 - `Testes com Jest`
 
 ---
 
-#### Implementações
+### Implementações
 
 - Testes para funções assíncronas
 - Mock de funções
@@ -25,7 +25,7 @@ Nesse projeto foram desenvolvidos testes utilizando Jest, para funções assínc
 
 ---
 
-#### Como rodar o projeto
+### Como rodar o projeto
 
 1. Clone o repositório
 - `git clone git@github.com:tryber/sd-011-project-jest.git.`
@@ -41,7 +41,7 @@ Nesse projeto foram desenvolvidos testes utilizando Jest, para funções assínc
 
 ---
 
-#### Requisitos do projeto
+### Requisitos do projeto
 
 1 - Cria testes para uma função assíncrona
 - Completa os testes do arquivo test/asyncJest.spec.js para que funcionem com código assíncrono.
