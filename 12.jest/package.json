@@ -7,8 +7,13 @@
     "test": "jest"
   },
   "keywords": [
-    "jest"
+    "jest",
+    "javascript",
+    "tests"
   ],
   "author": "GN",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
