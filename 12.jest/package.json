@@ -1,0 +1,19 @@
+{
+  "name": "12.jest",
+  "version": "1.0.0",
+  "description": "project-jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "javascript",
+    "tests"
+  ],
+  "author": "GN",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
