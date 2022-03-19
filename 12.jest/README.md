@@ -12,8 +12,8 @@ Nesse projeto foram desenvolvidos testes utilizando Jest, para funções assínc
 
 #### Tecnologias utilizadas
 
-`JavaScript`
-`Testes com Jest`
+- `JavaScript`
+- `Testes com Jest`
 
 ---
 
