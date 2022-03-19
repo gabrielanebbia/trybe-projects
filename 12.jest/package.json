@@ -1,0 +1,14 @@
+{
+  "name": "12.jest",
+  "version": "1.0.0",
+  "description": "project-jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "GN",
+  "license": "ISC"
+}
