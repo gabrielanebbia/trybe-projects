@@ -1,6 +1,6 @@
 # Projeto Jest
 
-[Objetivos do projeto](#objetivos-do-projeto) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Implementações](#implementações) | [Resultado](#resultado)
+[Objetivos do projeto](#objetivos-do-projeto) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Implementações](#implementações) | [Como rodar o projeto](#como=rodar-o-projeto)
 
 ---
 
@@ -23,3 +23,19 @@ Nesse projeto foram desenvolvidos testes utilizando Jest, para funções assínc
  2.Cria um "Mock" no arquivo test/mockFunctions.spec.js
  3.Cria um Mock para o retorno da API
  4.Cria funções no arquivo test/setupTeardown.spec.js
+
+---
+
+#### Como rodar o projeto
+
+1. Clone o repositório
+- `git clone git@github.com:tryber/sd-011-project-jest.git.`
+
+2. Entre na pasta do repositório:
+- `cd project-jest`
+
+3. Instale as dependências
+- `npm install`
+
+4. Para rodar os testes
+-`npm test nome-arquivo.test`
