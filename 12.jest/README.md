@@ -19,10 +19,9 @@ Nesse projeto foram desenvolvidos testes utilizando Jest, para funções assínc
 
 #### Implementações
 
- 1.Cria testes para uma função assíncrona
- 2.Cria um "Mock" no arquivo test/mockFunctions.spec.js
- 3.Cria um Mock para o retorno da API
- 4.Cria funções no arquivo test/setupTeardown.spec.js
+- Testes para funções assíncronas
+- Mock de funções
+- Mock para o retorno da API
 
 ---
 
@@ -38,4 +37,6 @@ Nesse projeto foram desenvolvidos testes utilizando Jest, para funções assínc
 - `npm install`
 
 4. Para rodar os testes
--`npm test nome-arquivo.test`
+- `npm test nome-arquivo.test`
+
+---
