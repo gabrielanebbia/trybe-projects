@@ -9,3 +9,17 @@
 Nesse projeto desenvolvido em grupo foi criada uma página de formulário da Escola Trybewarts para que os estudantes pudessem enviar feedbacks sobre a escola.
 
 ---
+
+#### Tecnologias utilizadas
+
+`HTML`
+`CSS`
+`JavaScript`
+
+---
+
+#### Implementações
+
+- Formulário em HTML
+- Estilização em CSS com flexbox
+- Design responsivo para dispositivos móveis
