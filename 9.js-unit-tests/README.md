@@ -9,3 +9,16 @@
 Nesse projeto foram desenvolvidos testes unitários utilizando para funções já escritas, assim como, funções para testes já criados.
 
 ---
+
+#### Tecnologias utilizadas
+
+`JavaScript`
+`Módulo Assert do NodeJS`
+
+---
+
+#### Implementações
+
+- Testes unitários
+- Funções baseadas em testes
+- Abordagem de desenvolvimento orientado a testes
