@@ -36,3 +36,9 @@ Nesse projeto foi desenvolvida uma página web que contém uma paleta de cores e
 10. Faz o quadro de pixels ter seu tamanho definido pelo usuário
 11. Limita o tamanho do mínimo e máximo do board
 12. Faz com que as cores da paleta sejam geradas aleatoriamente ao carregar a página
+
+---
+
+### Resultado
+
+![resultado](./resultado.gif)
