@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: fantasy, sans-serif;
+  color: black;
+  font-size: medium;
+  line-height: 25px;
+}
+
+#cabecalho {
+  display: inline;
+  position: fixed;
+  top: 0%;
+  border: solid black;
+  background-color: darkgreen;
+  padding: 50px 418px;
+  margin: 5px;
+}
+
+#minha_foto {
+  border: solid black;
+  margin-top: 100px;
+  margin-left: 40%;
+}
+
+.lado-esquerdo {
+  border: solid;
+  float: left;
+  position: relative;
+  width: auto;
+  padding: 10px 20px;
+  text-align: center;
+  margin: 10px;
+}
+
+.lado-direito {
+  border: solid;
+  float: right;
+  width: 50%;
+  height: 150px;
+  padding: 10px 20px;
+  text-align: center;
+  margin: 10px;
+}
+
+.passagem {
+  border: solid;
+  display: inline-block;
+  margin: 10%;
+  text-align: center;
+}
+
+#nome_perfil {
+  border: dotted black;
+  text-align: center;
+  padding: 1px;
+  margin: 10px;
+}
