@@ -6,6 +6,16 @@ Nesse projeto foi desenvolvida uma página HTML contendo informações sobre o q
 
 ---
 
+### Habilidades
+
+- Entender como funciona a estrutura (HTML) de uma página
+- Entender como o estilo (CSS) é aplicado à página
+- Construir páginas utilizando HTML e CSS
+- Realizar manutenções em páginas já existentes
+- Aplicar Layout e Box Model na prática
+
+---
+
 ### Implementações
 
   1. Adiciona uma cor de fundo à página
