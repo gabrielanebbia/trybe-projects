@@ -6,6 +6,21 @@ Nesse projeto foram implementadas funções em javascript, aplicando a lógica d
 
 ---
 
+### Habilidades
+
+- Aderência do código à especificação
+- Quebrar grandes problemas em pequenos
+- Utilizar a lógica de programação na resolução de problemas
+- Utilizar funções para organizar e estruturar do código
+- Escrever códigos em JavaScript que usam variáveis e tipos primitivos
+- Utilizar conceitos da linguagem como a tipagem dinâmica e operadores
+- Manipular arrays (listas)
+- Manipular objetos
+- Utilizar estruturas condicionais (if/else)
+- Utilizar os comandos for e/ou for/in
+
+---
+
 ### Implementações
 
 1 - Função usando o operador &&
