@@ -6,7 +6,7 @@
 
 - [Lessons Learned](./1.lessons-learned/)
 - [Playground Functions](./2.playground-functions/)
-- Projeto Pixels Art
+- [Pixels Art](./3.pixel-art/)
 - Projeto Todo List
 - Projeto (Bônus) Meme Generator
 - Projeto (Bônus) Color Guess
