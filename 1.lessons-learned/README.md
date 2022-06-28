@@ -33,3 +33,9 @@ Nesse projeto foi desenvolvida uma página HTML contendo informações sobre o q
   13. Utiliza o Box model
   14. Altera os atributos relacionados as fontes
   15. Posiciona o artigo e a seção sobre aprendizados um ao lado do outro
+
+---
+
+### Resultado
+
+![resultado](./resultado.png)
