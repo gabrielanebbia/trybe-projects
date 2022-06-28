@@ -2,10 +2,12 @@
 
 > Repositório com os projetos realizados no módulo de fundamentos do curso de desenvolvimento web na [Trybe](https://www.betrybe.com/).
 
+---
+
 #### Módulo 1 - Fundamentos do Desenvolvimento Web
 
-- [Lessons Learned](1.lessons-learned/)
-- [Playground Functions](2.playground-functions/)
+- [Lessons Learned](./1.lessons-learned/)
+- [Playground Functions](./2.playground-functions/)
 - Projeto Pixels Art
 - Projeto Todo List
 - Projeto (Bônus) Meme Generator
