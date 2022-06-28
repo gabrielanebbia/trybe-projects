@@ -10,6 +10,14 @@ Nesse projeto foi desenvolvida uma página web que contém uma paleta de cores e
 
 ---
 
+### Habilidades
+
+- Aderência à especificação e organização do código
+- Estruturar corretamente uma página HTML e o CSS
+- Manipular o DOM com JavaScript para adicionar interatividade à página
+
+---
+
 #### Tecnologias utilizadas
 
 `HTML`
