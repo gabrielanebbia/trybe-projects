@@ -1,0 +1,26 @@
+.black {
+  background-color: black;
+}
+
+.color {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  display: table-cell;
+  height: 50px;
+  width: 50px;
+}
+
+.pixel {
+  background-color: white;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  display: table-cell;
+  height: 40px;
+  width: 40px;
+}
+
+section {
+  margin: 10px;
+}
