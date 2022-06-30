@@ -16,9 +16,9 @@ Nesse projeto foi desenvolvida uma página web para a criação e manipulação 
 
 ### Tecnologias utilizadas
 
-`HTML`
-`CSS`
-`JavaScript`
+- `HTML`
+- `CSS`
+- `JavaScript`
 
 ---
 
@@ -38,3 +38,9 @@ Nesse projeto foi desenvolvida uma página web para a criação e manipulação 
 12. Adiciona um botão com id="salvar-tarefas" que salve o conteúdo da lista. Ao fechar e reabrir a página, a lista deve continuar no estado em que estava
 13. Adiciona dois botões, um com id="mover-cima" e outro com id="mover-baixo", que permitam mover o item selecionado para cima ou para baixo na lista de tarefas
 14. Adiciona um botão com id="remover-selecionado" que, quando clicado, remove o item selecionado
+
+---
+
+### Resultado
+
+![resultado](./resultado.png)
