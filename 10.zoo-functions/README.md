@@ -24,3 +24,16 @@ Nesse projeto foi simulado um sistema de relatório de um zoológico com o objet
 
 ### Implementações
 
+1. função getSpeciesByIds
+2. função getAnimalsOlderThan
+3. função getEmployeeByName
+4. função createEmployee
+5. função isManager
+6. função addEmployee
+7. função countAnimals
+8. função calculateEntry
+9. função getAnimalMap
+10. função getSchedule
+11. função getOldestFromFirstSpecies
+12. função increasePrices
+13. função getEmployeeCoverage
