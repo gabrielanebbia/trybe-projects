@@ -1,8 +1,4 @@
-# Projeto Zoo Functions
-
-[Objetivos do projeto](#objetivos-do-projeto) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Implementações](#implementações) | [Resultado](#resultado)
-
----
+## Projeto Zoo Functions
 
 #### Objetivos do projeto
 
