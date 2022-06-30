@@ -70,8 +70,8 @@ function getSchedule(dayName) {
 }
 
 function getOldestFromFirstSpecies(id) {
-  const firstResponsabity = data.employees.find((employee) => employee.id === id).responsibleFor[0];
-  const firstAnimal = data.species.find((animal) => animal.id === firstResponsabity);
+  const firstResponsibility = data.employees.find((employee) => employee.id === id).responsibleFor[0];
+  const firstAnimal = data.species.find((animal) => animal.id === firstResponsibility);
   return Object.values(firstAnimal.residents.reduce((acc, curr) => (acc.age > curr.age ? acc : curr)));
 }
 
@@ -88,9 +88,9 @@ function getEmployeeCoverage(idOrName) {
   if (!idOrName) {
     data.employees.forEach((employee) => { obj[`${employee.firstName} ${employee.lastName}`] = employee.responsibleFor.map((animal) => data.species.find(({ id }) => id === animal).name); });
   } else {
-    const employeeResponsabity = data.employees.find(({ id, firstName, lastName }) => idOrName === id || idOrName === firstName || idOrName === lastName);
+    const employeeResponsibility = data.employees.find(({ id, firstName, lastName }) => idOrName === id || idOrName === firstName || idOrName === lastName);
 
-    obj[`${employeeResponsabity.firstName} ${employeeResponsabity.lastName}`] = employeeResponsabity.responsibleFor.map((animal) => data.species.find(({ id }) => animal === id).name);
+    obj[`${employeeResponsibility.firstName} ${employeeResponsibility.lastName}`] = employeeResponsibility.responsibleFor.map((animal) => data.species.find(({ id }) => animal === id).name);
   }
   return obj;
 }
