@@ -1,12 +1,12 @@
-# Projeto Todo List
+## Projeto Todo List
 
-#### Objetivos do projeto
+### Sobre
 
 Nesse projeto foi desenvolvida uma página web para a criação e manipulação de uma lista de tarefas.
 
 ---
 
-#### Tecnologias utilizadas
+### Tecnologias utilizadas
 
 `HTML`
 `CSS`
@@ -14,4 +14,4 @@ Nesse projeto foi desenvolvida uma página web para a criação e manipulação 
 
 ---
 
-#### Implementações
+### Implementações
