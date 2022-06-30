@@ -6,6 +6,14 @@ Nesse projeto foi desenvolvida uma página web para a criação e manipulação 
 
 ---
 
+### Habilidades
+
+- Aderência à especificação e organização do código
+- Estruturar corretamente uma página HTML e o CSS
+- Manipular o DOM com JavaScript para adicionar interatividade à página
+
+---
+
 ### Tecnologias utilizadas
 
 `HTML`
