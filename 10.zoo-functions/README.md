@@ -11,16 +11,16 @@ Nesse projeto foi simulado um sistema de relatório de um zoológico com o objet
 - Utilizar as funcionalidades do ES6, como arrow functions, template literals, spread operator, parâmetro rest e object destructuring
 - Compor objetos e ler suas informações com diferentes métodos
 - Manipular arrays com funções como map, filter e reduce
+- Criar funções utilizando Higher Order Functions
+- Criar funções baseadas em testes
 
 ---
 
-#### Tecnologias utilizadas
+### Tecnologias utilizadas
 
-`JavaScript`
+- `JavaScript`
 
 ---
 
-#### Implementações
+### Implementações
 
-- Funções utilizando Higher Order Functions
-- Funções baseadas em testes
