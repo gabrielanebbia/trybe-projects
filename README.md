@@ -7,7 +7,7 @@
 - [Lessons Learned](./1.lessons-learned/)
 - [Playground Functions](./2.playground-functions/)
 - [Pixels Art](./3.pixel-art/)
-- Projeto Todo List
+- [Todo List](./4.todo-list/)
 - Projeto (Bônus) Meme Generator
 - Projeto (Bônus) Color Guess
 - Projeto (Bônus) Mistery Letter
