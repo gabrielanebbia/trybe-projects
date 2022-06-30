@@ -33,7 +33,7 @@ Nesse projeto foi desenvolvida uma página web para a criação e manipulação 
 7. Clicar em um item da lista altera a cor de fundo do item para cinza rgb(128,128,128)
 8. Não deve ser possível selecionar mais de um elemento da lista ao mesmo tempo
 9. Clicar duas vezes em um item, faz com que ele seja riscado, indicando que foi completo. É possível desfazer essa ação clicando novamente duas vezes no item
-10. Adiciona um botão com id="apaga-tudo" que quando clicado deve apagar todos os itens da lista
+10. Adiciona um botão com id="apagar-tudo" que quando clicado deve apagar todos os itens da lista
 11. Adiciona um botão com id="remover-finalizados" que quando clicado remove somente os elementos finalizados da sua lista
 12. Adiciona um botão com id="salvar-tarefas" que salve o conteúdo da lista. Ao fechar e reabrir a página, a lista deve continuar no estado em que estava
 13. Adiciona dois botões, um com id="mover-cima" e outro com id="mover-baixo", que permitam mover o item selecionado para cima ou para baixo na lista de tarefas
